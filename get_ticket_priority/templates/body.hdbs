@@ -1,0 +1,6 @@
+<div class="main">
+<div class="refresh">
+<li class="re btn"><a>{{t "layout.refresh"}}</a></li>
+</div>
+</div>
+<!--li class="refresh btn"><a>{{t "layout.refresh"}}</a></li-->
